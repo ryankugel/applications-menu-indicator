@@ -1,0 +1,2 @@
+Swiftpanel Applications Menu Indicator
+===
