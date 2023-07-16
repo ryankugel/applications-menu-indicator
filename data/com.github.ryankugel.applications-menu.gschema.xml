@@ -1,0 +1,9 @@
+<schemalist>
+	<schema path="/com/github/ryankugel/applications-menu/" id="com.github.ryankugel.applications-menu">
+        <key name="use-category" type="b">
+            <default>false</default>
+            <summary>Show the category view by default</summary>
+            <description>Save the current view of the launcher.</description>
+        </key>
+	</schema>
+</schemalist>

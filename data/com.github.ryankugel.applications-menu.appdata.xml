@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <id>com.github.ryankugel.applications-menu</id>
+  <extends>com.github.ryankugel.swiftpanel</extends>
+  <name>Applications Menu</name>
+  <summary>Open and search for apps</summary>
+
+  <releases>
+    <release>
+      <description>
+        <p>Initial release of the Applications Menu</p>
+      </description>
+    </release>
+  </releases>
+
+  <developer_name>Ryan R. Kugel</developer_name>
+  <url type="homepage">https://github.com/ryankugel/applications-menu-indicator</url>
+  <url type="bugtracker">https://github.com/ryankugel/applications-menu-indicator/issues</url>
+  <project_license>GPL-3.0+</project_license>
+</component>
